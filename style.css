@@ -1,0 +1,19 @@
+.header{
+ color: black;
+ border: blue;
+ border-radius: 15px;
+ width: 100%;
+ font-size: 18px;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: gray;
+}
+canvas{
+    border: 10px solid green;
+    border-radius: 15px;
+    background-color: white;
+}
